@@ -1,6 +1,5 @@
 use std::env;
 use std::fs;
-use std::io;
 use std::io::Write;
 use std::path::Path;
 
@@ -57,25 +56,13 @@ fn build_dict_registry() {
     let out_dir = env::var_os("OUT_DIR").unwrap();
     let dest_path = Path::new(&out_dir).join("dict_registry.bin");
 
-    let file = fs::OpenOptions::new()
-        .write(true)
-        .create(true)
-        .open(&dest_path)
-        .unwrap();
+    let registry = bincode::serialize(&registry).unwrap();
 
-    let mut buffer = io::BufWriter::new(file);
+    let mut encoder = flate2::write::ZlibEncoder::new(Vec::new(), flate2::Compression::default());
+    encoder.write_all(&registry).unwrap();
+    let registry = encoder.finish().unwrap();
 
-    let encoded_registry = bincode::serialize(&registry).unwrap();
-
-    let _test_decoded_registry: DictRegistry = bincode::deserialize(&encoded_registry).unwrap();
-
-    let mut compressor =
-        flate2::write::ZlibEncoder::new(Vec::new(), flate2::Compression::default());
-    compressor.write_all(&encoded_registry).unwrap();
-    let compressed_registry = compressor.finish().unwrap();
-
-    buffer.write_all(&compressed_registry).unwrap();
-    buffer.flush().unwrap();
+    fs::write(dest_path, registry).unwrap();
 }
 
 fn main() {
