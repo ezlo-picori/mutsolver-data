@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "UBIQUISME",
         "UBIQUISTE",
         "UBIQUITES",
@@ -198,5 +197,6 @@
         "UTRICULES",
         "UVULAIRES",
         "UXORICIDE"
-    ]
+    ],
+    "version": "202203251600"
 }

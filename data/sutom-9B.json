@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "BAASISMES",
         "BAASISTES",
         "BABELAMES",
@@ -3260,5 +3259,6 @@
         "BYTOWNITE",
         "BYZANTINE",
         "BYZANTINS"
-    ]
+    ],
+    "version": "202203251600"
 }

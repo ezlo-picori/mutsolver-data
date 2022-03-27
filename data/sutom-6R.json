@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "RABAIS",
         "RABANE",
         "RABANS",
@@ -1127,5 +1126,6 @@
         "RUTONS",
         "RYTHMA",
         "RYTHME"
-    ]
+    ],
+    "version": "202203251600"
 }

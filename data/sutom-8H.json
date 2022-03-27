@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "HABANERA",
         "HABILETE",
         "HABILITA",
@@ -820,5 +819,6 @@
         "HYPOSODE",
         "HYPOXIES",
         "HYSTERIE"
-    ]
+    ],
+    "version": "202203251600"
 }

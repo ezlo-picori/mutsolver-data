@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "OASIEN",
         "OBEIES",
         "OBEIRA",
@@ -384,5 +383,6 @@
         "OZONER",
         "OZONES",
         "OZONEZ"
-    ]
+    ],
+    "version": "202203251600"
 }

@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "RABACHAGE",
         "RABACHAIS",
         "RABACHAIT",
@@ -5763,5 +5762,6 @@
         "RYTHMEREZ",
         "RYTHMIONS",
         "RYTHMIQUE"
-    ]
+    ],
+    "version": "202203251600"
 }

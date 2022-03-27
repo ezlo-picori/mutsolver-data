@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "IAMBIQUES",
         "IANTHINES",
         "IATROGENE",
@@ -1711,5 +1710,6 @@
         "IVOIRISES",
         "IVOIRISEZ",
         "IVOIRITES"
-    ]
+    ],
+    "version": "202203251600"
 }

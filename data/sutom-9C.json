@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "CABALAMES",
         "CABALASSE",
         "CABALATES",
@@ -6152,5 +6151,6 @@
         "CYTOMETRE",
         "CYTOSINES",
         "CZIMBALUM"
-    ]
+    ],
+    "version": "202203251600"
 }

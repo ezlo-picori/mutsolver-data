@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "DACITE",
         "DADAIS",
         "DAGUAI",
@@ -887,5 +886,6 @@
         "DYNAMO",
         "DYNODE",
         "DZETAS"
-    ]
+    ],
+    "version": "202203251600"
 }

@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "DACTYLES",
         "DACTYLOS",
         "DADAISME",
@@ -3905,5 +3904,6 @@
         "DYSTOPIE",
         "DYSURIES",
         "DYTIQUES"
-    ]
+    ],
+    "version": "202203251600"
 }

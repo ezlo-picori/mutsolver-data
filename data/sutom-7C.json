@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "CABALAI",
         "CABALAS",
         "CABALAT",
@@ -3155,5 +3154,6 @@
         "CYTISES",
         "CYTOSOL",
         "CZARDAS"
-    ]
+    ],
+    "version": "202203251600"
 }

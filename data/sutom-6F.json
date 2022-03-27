@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "FABLAB",
         "FABLES",
         "FABULA",
@@ -847,5 +846,6 @@
         "FUYARD",
         "FUYIEZ",
         "FUYONS"
-    ]
+    ],
+    "version": "202203251600"
 }

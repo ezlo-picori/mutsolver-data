@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "RABACHA",
         "RABACHE",
         "RABANES",
@@ -2380,5 +2379,6 @@
         "RYTHMER",
         "RYTHMES",
         "RYTHMEZ"
-    ]
+    ],
+    "version": "202203251600"
 }

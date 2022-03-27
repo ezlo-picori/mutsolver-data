@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "PACAGEAIS",
         "PACAGEAIT",
         "PACAGEANT",
@@ -4658,5 +4657,6 @@
         "PYRUVIQUE",
         "PYTHIENNE",
         "PYTHIQUES"
-    ]
+    ],
+    "version": "202203251600"
 }

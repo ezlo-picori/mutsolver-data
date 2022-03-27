@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "EBAHIE",
         "EBAHIR",
         "EBAHIS",
@@ -1070,5 +1069,6 @@
         "EXULTE",
         "EXUVIE",
         "EXVOTO"
-    ]
+    ],
+    "version": "202203251600"
 }

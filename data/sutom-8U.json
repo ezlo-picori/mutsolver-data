@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "UBERALES",
         "UBIQUITE",
         "UBUESQUE",
@@ -179,5 +178,6 @@
         "UTOPISTE",
         "UTRICULE",
         "UVULAIRE"
-    ]
+    ],
+    "version": "202203251600"
 }

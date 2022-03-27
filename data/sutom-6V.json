@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "VACANT",
         "VACCIN",
         "VACHER",
@@ -539,5 +538,6 @@
         "VROMBI",
         "VULPIN",
         "VULVES"
-    ]
+    ],
+    "version": "202203251600"
 }

@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "FABACEES",
         "FABLIAUX",
         "FABLIERS",
@@ -2030,5 +2029,6 @@
         "FUYAIENT",
         "FUYANTES",
         "FUYARDES"
-    ]
+    ],
+    "version": "202203251600"
 }

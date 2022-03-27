@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "SABAYONS",
         "SABEENNE",
         "SABEISME",
@@ -2997,5 +2996,6 @@
         "SYSTOLES",
         "SYSTYLES",
         "SYZYGIES"
-    ]
+    ],
+    "version": "202203251600"
 }

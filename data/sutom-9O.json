@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "OASIENNES",
         "OBDUCTION",
         "OBEDIENCE",
@@ -1009,5 +1008,6 @@
         "OZONISEUR",
         "OZONISIEZ",
         "OZONISONS"
-    ]
+    ],
+    "version": "202203251600"
 }

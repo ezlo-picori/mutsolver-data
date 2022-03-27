@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "JABLAMES",
         "JABLASSE",
         "JABLATES",
@@ -485,5 +484,6 @@
         "JUTEUSES",
         "JUVENATS",
         "JUVENILE"
-    ]
+    ],
+    "version": "202203251600"
 }

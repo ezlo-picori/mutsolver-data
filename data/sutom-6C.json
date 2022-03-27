@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "CABALA",
         "CABALE",
         "CABANA",
@@ -1587,5 +1586,6 @@
         "CYPRES",
         "CYPRIN",
         "CYTISE"
-    ]
+    ],
+    "version": "202203251600"
 }

@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "HABEAS",
         "HABILE",
         "HABITA",
@@ -381,5 +380,6 @@
         "HYPHES",
         "HYPOGE",
         "HYSOPE"
-    ]
+    ],
+    "version": "202203251600"
 }

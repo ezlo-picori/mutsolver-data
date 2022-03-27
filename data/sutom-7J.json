@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "JABIRUS",
         "JABLAIS",
         "JABLAIT",
@@ -379,5 +378,6 @@
         "JUTEUSE",
         "JUTIONS",
         "JUVENAT"
-    ]
+    ],
+    "version": "202203251600"
 }

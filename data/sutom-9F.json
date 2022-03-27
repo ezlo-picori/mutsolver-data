@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "FABRICANT",
         "FABRICIEN",
         "FABRIQUAI",
@@ -2333,5 +2332,6 @@
         "FUTURISME",
         "FUTURISTE",
         "FUXEENNES"
-    ]
+    ],
+    "version": "202203251600"
 }

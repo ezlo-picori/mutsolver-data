@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "IAMBIQUE",
         "IANTHINE",
         "IANTHINS",
@@ -1140,5 +1139,6 @@
         "IVOIRITE",
         "IVRESSES",
         "IVROGNES"
-    ]
+    ],
+    "version": "202203251600"
 }

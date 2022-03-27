@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "ABACULES",
         "ABAISSAI",
         "ABAISSAS",
@@ -3719,5 +3718,6 @@
         "AZUREREZ",
         "AZURIONS",
         "AZURITES"
-    ]
+    ],
+    "version": "202203251600"
 }

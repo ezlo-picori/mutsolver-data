@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "PACAGEA",
         "PACAGEE",
         "PACAGER",
@@ -2403,5 +2402,6 @@
         "PYTHONS",
         "PYURIES",
         "PYXIDES"
-    ]
+    ],
+    "version": "202203251600"
 }

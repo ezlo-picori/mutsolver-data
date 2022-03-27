@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "TABAGIES",
         "TABASCOS",
         "TABASSAI",
@@ -2230,5 +2229,6 @@
         "TZARINES",
         "TZATZIKI",
         "TZIGANES"
-    ]
+    ],
+    "version": "202203251600"
 }

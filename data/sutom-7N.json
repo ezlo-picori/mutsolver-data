@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "NABISME",
         "NABOTES",
         "NACARAT",
@@ -544,5 +543,6 @@
         "NYMPHEE",
         "NYMPHES",
         "NYMPHOS"
-    ]
+    ],
+    "version": "202203251600"
 }

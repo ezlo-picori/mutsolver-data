@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "UBERALE",
         "UBIQUES",
         "UKULELE",
@@ -147,5 +146,6 @@
         "UTILITE",
         "UTOPIES",
         "UVEITES"
-    ]
+    ],
+    "version": "202203251600"
 }

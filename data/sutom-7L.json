@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "LABARUM",
         "LABELLE",
         "LABEURS",
@@ -1090,5 +1089,6 @@
         "LYSINES",
         "LYSIONS",
         "LYTIQUE"
-    ]
+    ],
+    "version": "202203251600"
 }

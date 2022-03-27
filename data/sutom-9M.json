@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "MACADAMIA",
         "MACARONIS",
         "MACASSARS",
@@ -3017,5 +3016,6 @@
         "MYTHOMANE",
         "MYXOEDEME",
         "MYXOVIRUS"
-    ]
+    ],
+    "version": "202203251600"
 }

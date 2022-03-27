@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "ABACAS",
         "ABADER",
         "ABAQUE",
@@ -1194,5 +1193,6 @@
         "AZUREZ",
         "AZYGOS",
         "AZYMES"
-    ]
+    ],
+    "version": "202203251600"
 }

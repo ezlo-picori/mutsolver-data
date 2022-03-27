@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "TABAGIQUE",
         "TABAGISME",
         "TABASSAGE",
@@ -2608,5 +2607,6 @@
         "TYROLIENS",
         "TYROSINES",
         "TZATZIKIS"
-    ]
+    ],
+    "version": "202203251600"
 }

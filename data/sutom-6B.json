@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "BABELA",
         "BABELE",
         "BABIES",
@@ -1228,5 +1227,6 @@
         "BYEBYE",
         "BYPASS",
         "BYSSUS"
-    ]
+    ],
+    "version": "202203251600"
 }

@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "SABEENNES",
         "SABEISMES",
         "SABLAIENT",
@@ -3809,5 +3808,6 @@
         "SYRIENNES",
         "SYRRHAPTE",
         "SYSADMINS"
-    ]
+    ],
+    "version": "202203251600"
 }

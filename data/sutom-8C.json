@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "CABALAIS",
         "CABALAIT",
         "CABALANT",
@@ -4767,5 +4766,6 @@
         "CYTOLYSE",
         "CYTOSINE",
         "CYTOSOLS"
-    ]
+    ],
+    "version": "202203251600"
 }

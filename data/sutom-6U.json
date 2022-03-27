@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "UBIQUE",
         "UHLANS",
         "UKASES",
@@ -96,5 +95,6 @@
         "UVULAS",
         "UVULES",
         "UZBEKS"
-    ]
+    ],
+    "version": "202203251600"
 }

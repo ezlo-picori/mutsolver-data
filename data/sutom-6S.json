@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "SAANEN",
         "SABBAT",
         "SABEEN",
@@ -1125,5 +1124,6 @@
         "SYRIEN",
         "SYRINX",
         "SYRPHE"
-    ]
+    ],
+    "version": "202203251600"
 }

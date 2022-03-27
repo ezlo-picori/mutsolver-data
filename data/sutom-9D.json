@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "DADAISMES",
         "DADAISTES",
         "DAGUAIENT",
@@ -5725,5 +5724,6 @@
         "DYSTONIES",
         "DYSTOPIES",
         "DYSURIQUE"
-    ]
+    ],
+    "version": "202203251600"
 }

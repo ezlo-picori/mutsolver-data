@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "VACANCIER",
         "VACATAIRE",
         "VACATIONS",
@@ -1260,5 +1259,6 @@
         "VULTUEUSE",
         "VULVAIRES",
         "VUVUZELAS"
-    ]
+    ],
+    "version": "202203251600"
 }

@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "MABOULES",
         "MACABRES",
         "MACADAMS",
@@ -2431,5 +2430,6 @@
         "MYTHIFIA",
         "MYTHIFIE",
         "MYTHIQUE"
-    ]
+    ],
+    "version": "202203251600"
 }

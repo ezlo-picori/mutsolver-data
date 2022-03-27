@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "RABACHAI",
         "RABACHAS",
         "RABACHAT",
@@ -4144,5 +4143,6 @@
         "RYTHMERA",
         "RYTHMIEZ",
         "RYTHMONS"
-    ]
+    ],
+    "version": "202203251600"
 }

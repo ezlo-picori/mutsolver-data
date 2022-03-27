@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "MABOUL",
         "MACERA",
         "MACERE",
@@ -915,5 +914,6 @@
         "MYTHOS",
         "MYXINE",
         "MYXOME"
-    ]
+    ],
+    "version": "202203251600"
 }

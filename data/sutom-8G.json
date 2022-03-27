@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "GABARIAI",
         "GABARIAS",
         "GABARIAT",
@@ -1731,5 +1730,6 @@
         "GYPSIERS",
         "GYROPODE",
         "GYROSTAT"
-    ]
+    ],
+    "version": "202203251600"
 }

@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "OARISTYS",
         "OASIENNE",
         "OBEIRAIS",
@@ -900,5 +899,6 @@
         "OZONISER",
         "OZONISES",
         "OZONISEZ"
-    ]
+    ],
+    "version": "202203251600"
 }

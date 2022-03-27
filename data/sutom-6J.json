@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "JABIRU",
         "JABLAI",
         "JABLAS",
@@ -255,5 +254,6 @@
         "JUTEUX",
         "JUTIEZ",
         "JUTONS"
-    ]
+    ],
+    "version": "202203251600"
 }

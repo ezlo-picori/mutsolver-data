@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "GABARDINE",
         "GABARIAGE",
         "GABARIAIS",
@@ -2034,5 +2033,6 @@
         "GYROSCOPE",
         "GYROSTATS",
         "GYROVAGUE"
-    ]
+    ],
+    "version": "202203251600"
 }

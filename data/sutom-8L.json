@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "LABADENS",
         "LABARUMS",
         "LABDANUM",
@@ -1322,5 +1321,6 @@
         "LYSOSOME",
         "LYSOZYME",
         "LYTIQUES"
-    ]
+    ],
+    "version": "202203251600"
 }

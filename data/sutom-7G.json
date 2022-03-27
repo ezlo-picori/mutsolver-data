@@ -1,6 +1,5 @@
 {
-    "version": "202203251600",
-    "words": [
+    "answers": [
         "GABARES",
         "GABARIA",
         "GABARIE",
@@ -1304,5 +1303,6 @@
         "GYPSEUX",
         "GYPSIER",
         "GYROBUS"
-    ]
+    ],
+    "version": "202203251600"
 }
