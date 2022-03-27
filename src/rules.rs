@@ -7,6 +7,7 @@ use std::collections::HashMap;
 pub enum Rules {
     SUTOM(char, u8), // First letter, word size
     TEST(char, u8),  // First letter, word size
+    WORDLE,          // No specific rules, single dict
 }
 
 pub type DictRegistry = HashMap<Rules, Dict>;

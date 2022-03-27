@@ -13,6 +13,7 @@ impl Rules {
         lazy_static! {
             static ref SUTOM_REGEX: Regex = Regex::new("^sutom-([1-9]+)([A-Z])").unwrap();
             static ref TEST_REGEX: Regex = Regex::new("^test-([1-9]+)([A-Z])").unwrap();
+            static ref WORDLE_REGEX: Regex = Regex::new("^wordle").unwrap();
         }
 
         if let Some(capture) = SUTOM_REGEX.captures_iter(name).next() {
@@ -26,6 +27,9 @@ impl Rules {
                 capture.get(2).unwrap().as_str().chars().next().unwrap(),
                 capture.get(1).unwrap().as_str().parse::<u8>().unwrap(),
             ));
+        }
+        if WORDLE_REGEX.captures_iter(name).next().is_some() {
+            return Some(Rules::WORDLE);
         }
         None
     }
